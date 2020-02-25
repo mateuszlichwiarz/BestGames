@@ -1,5 +1,7 @@
 # BestGames
 
+http://sklepzgrami.cba.pl/home
+
 Game Shop
 
 My first "BIG" project in PHP.
