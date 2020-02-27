@@ -10,6 +10,8 @@ please come with distance to this.
 I suggest you prepare popcorn and sit back comfortably before you start :D
 
 /*
-Admin login: admin
-Admin password: admin
+Admin login: admin,
+Admin password: admin,
+User login: user0,
+User password: user0123
 */
