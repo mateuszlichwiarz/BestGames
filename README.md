@@ -1,13 +1,9 @@
 # BestGames
 
-http://sklepzgrami.cba.pl/home
+Virtual game shop with simple CMS.
 
-Game Shop
-
-My first "BIG" project in PHP.
-So many mistakes and bugs but for my first is not bad at all :)
-please come with distance to this.
-I suggest you prepare popcorn and sit back comfortably before you start :D
+Created in pure PHP without using any framework/library.
+This project was my first contact with PHP, so code is horrible.
 
 /*
 Admin login: admin,
