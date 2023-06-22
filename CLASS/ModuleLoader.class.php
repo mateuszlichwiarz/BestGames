@@ -5,9 +5,6 @@ class ModuleLoader
     static public function load($MODULE)
     {
         switch ($MODULE) {
-
-
-
             case 'open':
 
             echo <<<END
@@ -26,15 +23,13 @@ class ModuleLoader
 END;
 break;
 
-
             case 'footer':
 
             echo<<<END
-            <div class="footer">BestGames.com &copy; 2019 Thank you for your visit Mario! But our Princess is in another castle ;-)</div>
+            <div class="footer">BestGames.com</div>
 
 END;
 break;
-
 
             case 'js':
 
@@ -4628,7 +4623,7 @@ break;
                     echo 'logiczne';
                 }elseif($type == 'br'){
                     echo 'battle royale';
-                }elseif($tpye == 'fight'){
+                }elseif($type == 'fight'){
                     echo 'bijatyki';
                 }
 
