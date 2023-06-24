@@ -1,9 +1,27 @@
 # BestGames
 
-Virtual game shop with simple CMS.
+Virtual game shop and simple admin panel.
 
-Created in pure PHP without using any framework/library.
-This project was my first contact with PHP, so code is horrible.
+Client features:
+  Product list
+  Product page
+  Product filters
+  Basket
+  Order /without payment
+  Chat
+
+Admin features:
+  Managing product:
+    Create new product with name, description, price, quantity and image
+    Update existing product
+    Delete product
+  Managing order:
+    Order list
+    Edit order
+    Delete order
+
+Created in pure PHP without using any backend framework/library.
+This project is truly my first contact with PHP and indeed many features are horrible coded.
 
 /*
 Admin login: admin,
