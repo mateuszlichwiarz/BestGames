@@ -4,12 +4,12 @@ Virtual game shop and simple admin panel.
 
 Client features:
 
-  Product list
-  Product page
-  Product filters
-  Basket
-  Order /without payment
-  Chat
+  Product list 
+  Product page 
+  Product filters 
+  Basket 
+  Order /without payment 
+  Chat 
 
 
 Admin features:
